@@ -44,3 +44,6 @@ export interface NavigationLink {
 export const siteConfig = (config: SiteConfig): SiteConfig => {
   return config
 }
+
+console.log('env NOTION_PAGE_ID:', process.env.NOTION_PAGE_ID)
+
