@@ -1,0 +1,8 @@
+{
+    "origins": [
+      "https://www.noonjwi.kr"
+    ],
+    "originsRegex": [
+      "http://localhost:[0-9]+"
+    ]
+  }
